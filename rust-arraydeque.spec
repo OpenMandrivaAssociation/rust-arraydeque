@@ -5,8 +5,8 @@
 %global crate arraydeque
 
 Name:           rust-%{crate}
-Version:        0.4.5
-Release:        3%{?dist}
+Version:        0.5.1
+Release:        1%{?dist}
 Summary:        Ring buffer with a fixed capacity, which can be stored on the stack
 
 # Upstream license specification: MIT/Apache-2.0
